@@ -16,7 +16,7 @@ const merriweather = Merriweather({
   display: 'swap',
 });
 
-const PIXEL_ID = '4505929459661626';
+const PIXEL_ID = '1564551878564949';
 const PIXEL_ID_2 = '1270209555097956';
 
 export const metadata = {
